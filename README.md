@@ -1,7 +1,5 @@
 ## Hi there 👋, I am Suryasnat Biswal
 
-Here is a brief intro about me:
-
 - 🔭 I’m currently working on Zairza Web dev project
 - 🌱 I’m currently learning NextJS and React Native
 - 👯 I’m looking to collaborate on React Native projects
